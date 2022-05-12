@@ -1,3 +1,3 @@
 <?php
 
-echo "Olá IFPE!";
+echo "Olá Mundo!";
